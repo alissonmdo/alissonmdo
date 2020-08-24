@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Alisson
 
-<!--
-**alissonmdo/alissonmdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
 
-Here are some ideas to get you started:
+My regular job as a remote software developer and on my open source project called UtilityBelt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+
+Containers and CI/CD for faster development.
+
+## 👯 I’m looking to collaborate on
+
+Open source projects where my skills can make a difference.
+
+## 🤔 I’m looking for help with
+
+Anything you think can be improved in any of my projects.
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/alissonmdo/)
+- [Twitter](https://twitter.com/alissonmdo)
+- [GitHub](https://github.com/alissonmdo)
+
+## ⚡ Fun fact
+
+The mitochondria is the powerhouse of the cell.
