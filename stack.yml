@@ -1,0 +1,6 @@
+- name: TypeScript
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3178C6'
+  projects:
+    - url: https://github.com/alissonmdo/alissonmdo
