@@ -6,7 +6,7 @@ _/    _/  _/  _/      _/_/      _/_/  _/    _/  _/    _/  _/    _/    _/  _/    
  _/_/_/  _/  _/  _/_/_/    _/_/_/      _/_/    _/    _/  _/    _/    _/    _/_/_/    _/_/
 ```
 
-## Hi there! I'm Alisson de Oliveira 👋, Senior Engineer and Tech Lead focused in software development, architecture, and leading teams to success. I'm passionate about building software solutions that have a meaningful impact on people's lives. I enjoy collaborating with other passionate individuals to bring ideas to life and make the world a little bit better. Let's connect and innovate together!
+Hi there! I'm Alisson de Oliveira 👋, Senior Engineer and Tech Lead focused in software development, architecture, and leading teams to success. I'm passionate about building software solutions that have a meaningful impact on people's lives. I enjoy collaborating with other passionate individuals to bring ideas to life and make the world a little bit better. Let's connect and innovate together!
 
 ---
 
