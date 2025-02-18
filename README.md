@@ -8,4 +8,4 @@ I'm currently a Software Engineer at Havenly.
 ## Connect
 - **Email:** [git@alisson.dev](mailto:git@alisson.dev)
 - **GitHub:** [@alissonmdo](https://github.com/alissonmdo) (but you are here already)
-- **LinkedIn:** [/in/alissonmdo](https://www.linkedin.com/in/alissonmdo/)
+- **LinkedIn:** [in/alissonmdo](https://www.linkedin.com/in/alissonmdo/)
